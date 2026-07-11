@@ -1,2 +1,7 @@
 /* импортируем обнуляющие стили из reset.css в основной файл css */
 @import "./reset.css";
+
+body{
+    font-family: Varela Round;
+    overflow-x: hidden;
+}
